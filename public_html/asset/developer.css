@@ -1,0 +1,26 @@
+.bnners {
+    font-size: 25px !important;
+}
+
+.hty {
+    height: 497px;
+}
+
+
+.ahome {
+    position: absolute;
+    left: 604px;
+    top: 300px;
+    padding: 20% !important;
+}
+
+.khome {
+    position: absolute;
+    left: 768px;
+    top: 299px;
+    padding: 20% !important;
+}
+
+.slidergap {
+    margin-bottom: 13%;
+}

@@ -1,0 +1,870 @@
+#contact .col-sm-1,
+#contact .col-sm-10,
+#contact .col-sm-11,
+#contact .col-sm-12,
+#contact .col-sm-2,
+#contact .col-sm-3,
+#contact .col-sm-4,
+#contact .col-sm-5,
+#contact .col-sm-6,
+#contact .col-sm-7,
+#contact .col-sm-8,
+#contact .col-sm-9,
+#contact .col-sm-auto {
+    position: relative;
+    width: auto !important;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+@media screen and (max-width: 1024px) {
+    #contact .btnstyle {
+        margin-left: 67%;
+        font-size: 20px;
+        padding: 0;
+    }
+    .slider-indicator {
+        position: absolute;
+        bottom: 0;
+        left: 54.5%;
+    }
+    .carousel-caption {
+        padding-top: 25%;
+    }
+    #mainNav {
+        font-size: 12px !important;
+    }
+}
+@media screen and (max-width: 800px) {
+    .overlay {
+        width: 45%;
+        padding-top: 51%;
+        padding-left: 4%;
+    }
+    .carousel-caption {
+        position: absolute;
+        top: 0;
+        left: 55%;
+    }
+    .slider-indicator {
+        left: 45.5%;
+    }
+    #about .img-left {
+        position: absolute;
+        top: 0;
+        left: 20%;
+    }
+    #work h3 {
+        font-family: maven_promedium;
+        font-size: 11px;
+        padding-top: 25%;
+    }
+    #contact .btnstyle {
+        margin-left: 52%;
+    }
+    #contact .address {
+        font-size: 14px;
+        font-family: maven_proregular;
+        padding-left: 6%;
+    }
+    #contact .map {
+        padding-left: 5%;
+    }
+    .footer {
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .overlay {
+        width: 45%;
+        padding-top: 51%;
+        padding-left: 4%;
+    }
+    .carousel-caption {
+        position: absolute;
+        top: 18%;
+        left: 14%;
+        padding-right: 0;
+    }
+    .carousel-caption p {
+        margin-top: 0;
+        letter-spacing: 1px;
+    }
+    .fixwidth .featherlight-content {
+        width: 96%;
+        padding: 0;
+        color: #000;
+        background: #fff;
+        padding-top: 5%;
+        padding-bottom: 5%;
+        font-size: 10px;
+    }
+    .carousel-caption h3 {
+        padding-top: 18%;
+    }
+    #highlights {
+        padding-left: 8%;
+    }
+    .lft-space {
+        padding-left: 0;
+    }
+    #highlights .left-sec {
+        padding-right: 0;
+    }
+    .slider-indicator {
+        left: 45%;
+    }
+    #about .img-left {
+        position: absolute;
+        top: 0;
+        left: 20%;
+    }
+    #work h3 {
+        font-family: maven_promedium;
+        font-size: 11px;
+        padding-top: 25%;
+    }
+    #contact .btnstyle {
+        margin-left: 52%;
+    }
+    #contact .address {
+        font-size: 14px;
+        font-family: maven_proregular;
+        padding-left: 6%;
+    }
+    #contact .map {
+        padding-left: 5%;
+    }
+    .footer {
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 480px) {
+    #iLightbox .iLightbox-container {
+        position: absolute;
+        font-family: sans-serif;
+        margin-top: -145px !important;
+    }
+    .logo {
+        font-size: 30px;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #fff;
+        max-width: 60%;
+        height: auto;
+    }
+    .w-50 {
+        width: 50%;
+    }
+    .w-20 {
+        width: 20%;
+    }
+    #mainNav .nav-link {
+        transition: none;
+        padding: 1rem;
+        color: #4b4b4b;
+    }
+    .bg1-style {
+        background-image: url(../../images/banner1-mobile.png);
+        background-position: right;
+        width: 100%;
+    }
+    .bg2-style {
+        background-image: url(../../images/banner3-mobile.png);
+        background-position: center;
+        width: 100%;
+    }
+    .bg3-style {
+        background-image: url(../../images/banner4-mobile.png);
+        background-position: center;
+        width: 100%;
+    }
+    .slider-indicator {
+        left: 39%;
+    }
+    .carousel-caption {
+        position: absolute;
+        top: 18%;
+        left: 14%;
+        padding-right: 0;
+    }
+    .carousel-caption p {
+        margin-top: -10%;
+        letter-spacing: 1px;
+    }
+    .carousel-caption h3 {
+        font-size: 24px;
+        padding-top: 18%;
+    }
+    #highlights {
+        padding-left: 8%;
+    }
+    .lft-space {
+        padding-left: 0;
+    }
+    #highlights .left-sec {
+        padding-right: 0;
+    }
+    #amenities h5 {
+        text-align: left;
+        padding-bottom: 5%;
+        border-bottom: 1px solid #e2e2e2;
+    }
+    #about h1 {
+        text-align: left;
+    }
+    #about .keys {
+        text-align: left;
+    }
+    #about .title {
+        margin-top: 2%;
+        font-size: 42px;
+        margin-bottom: 20%;
+    }
+    #about .left-sec {
+        padding-top: 0;
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 10%;
+        font-family: maven_problack;
+    }
+    #work h1 {
+        margin-top: 6%;
+    }
+    .service-overlay {
+        width: 100%;
+    }
+    #work h3 {
+        font-family: maven_promedium;
+        font-size: 14px;
+        padding-top: 2%;
+        border-bottom: 1px solid #e2e2e2;
+        padding-bottom: 5%;
+        text-align: left;
+    }
+    .view h3 {
+        padding-bottom: 2% !important;
+        text-align: left;
+        padding-left: 4%;
+    }
+    .service-overlay p {
+        font-size: 13px;
+        padding-top: 2% !important;
+        text-align: left;
+        padding-left: 2% !important;
+    }
+    .ml-auto,
+    .mx-auto {
+        margin-left: 14% !important;
+    }
+    #contact {
+        padding-top: 10%;
+    }
+    #gallery {
+        padding-top: 10%;
+    }
+    #amenities {
+        padding-top: 10%;
+    }
+    #contact .btnstyle {
+        border-radius: 0;
+        background-color: #120e4a;
+        width: 120px;
+        height: 43px;
+        margin-left: -4%;
+        color: #fff;
+        font-family: maven_proregular;
+        font-size: 18px;
+        padding: 0;
+        margin-top: -10%;
+    }
+    #contact .substyle {
+        margin-bottom: 15%;
+    }
+    #contact .map {
+        padding-left: 0;
+    }
+    .footer {
+        font-size: 8px;
+    }
+}
+@media screen and (max-width: 414px) {
+    #iLightbox .iLightbox-container {
+        position: absolute;
+        font-family: sans-serif;
+        margin-top: -145px !important;
+    }
+    .logo {
+        font-size: 30px;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #fff;
+        max-width: 60%;
+        height: auto;
+    }
+    .slider-indicator {
+        left: 39%;
+    }
+    .carousel-caption {
+        position: absolute;
+        top: 7%;
+        left: 0;
+        padding-right: 0;
+    }
+    .carousel-caption p {
+        margin-top: 6%;
+        letter-spacing: 1px;
+        font-size: 12.5px;
+    }
+    .carousel-caption h3 {
+        font-size: 24px;
+        padding-top: 18%;
+    }
+    .contact-section h1 {
+        font-family: maven_proregular;
+    }
+    #amenities h5 {
+        text-align: left;
+        padding-bottom: 5%;
+        border-bottom: 1px solid #e2e2e2;
+    }
+    #about h1 {
+        text-align: left;
+    }
+    #about .keys {
+        text-align: left;
+    }
+    #highlights {
+        padding-left: 8%;
+    }
+    .lft-space {
+        padding-left: 0;
+    }
+    #highlights .left-sec {
+        padding-right: 0;
+    }
+    #about .title {
+        margin-top: 2%;
+        font-size: 42px;
+        margin-bottom: 20%;
+    }
+    #about .left-sec {
+        padding-top: 0;
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 10%;
+        font-family: maven_problack;
+    }
+    #work h1 {
+        margin-top: 6%;
+    }
+    .service-overlay {
+        width: 100%;
+    }
+    #work h3 {
+        font-family: maven_promedium;
+        font-size: 14px;
+        padding-top: 2%;
+        border-bottom: 1px solid #e2e2e2;
+        padding-bottom: 5%;
+    }
+    .view h3 {
+        padding-bottom: 2% !important;
+        text-align: left;
+        padding-left: 4%;
+    }
+    .service-overlay p {
+        font-size: 13px;
+        padding-top: 2% !important;
+        text-align: left;
+        padding-left: 2% !important;
+    }
+    .ml-auto,
+    .mx-auto {
+        margin-left: 1% !important;
+    }
+    #contact {
+        padding-top: 10%;
+    }
+    #gallery {
+        padding-top: 10%;
+    }
+    #amenities {
+        padding-top: 10%;
+    }
+    #contact .btnstyle {
+        border-radius: 0;
+        background-color: #120e4a;
+        width: 120px;
+        height: 43px;
+        margin-left: -4%;
+        color: #fff;
+        font-family: maven_proregular;
+        font-size: 18px;
+        padding: 0;
+        margin-top: -10%;
+    }
+    #contact .substyle {
+        margin-bottom: 15%;
+    }
+    #contact .map {
+        padding-left: 0;
+    }
+    .footer {
+        font-size: 8px;
+    }
+    .width-lft {
+        width: 10% !important;
+    }
+    .width-rft {
+        width: 10% !important;
+    }
+}
+@media screen and (max-width: 412px) {
+    #iLightbox .iLightbox-container {
+        position: absolute;
+        font-family: sans-serif;
+        margin-top: -145px !important;
+    }
+    .logo {
+        font-size: 30px;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #fff;
+        max-width: 60%;
+        height: auto;
+    }
+    .slider-indicator {
+        left: 36%;
+    }
+    #contact {
+        padding-top: 10%;
+    }
+    #gallery {
+        padding-top: 10%;
+    }
+    #amenities {
+        padding-top: 10%;
+    }
+    .carousel-caption {
+        position: absolute;
+        top: 7%;
+        left: 0;
+        padding-right: 0;
+    }
+    .carousel-caption p {
+        margin-top: 6%;
+        letter-spacing: 1px;
+        font-size: 12.5px;
+    }
+    .carousel-caption h3 {
+        font-size: 24px;
+        padding-top: 18%;
+    }
+    #highlights {
+        padding-left: 8%;
+    }
+    .lft-space {
+        padding-left: 0;
+    }
+    #highlights .left-sec {
+        padding-right: 0;
+    }
+    #amenities h5 {
+        text-align: left;
+        padding-bottom: 5%;
+        border-bottom: 1px solid #e2e2e2;
+    }
+    #about h1 {
+        text-align: left;
+    }
+    #about .keys {
+        text-align: left;
+    }
+    #about .title {
+        margin-top: 2%;
+        font-size: 42px;
+        margin-bottom: 20%;
+    }
+    #about .left-sec {
+        padding-top: 0;
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 10%;
+        font-family: maven_problack;
+    }
+    #work h1 {
+        margin-top: 6%;
+    }
+    .service-overlay {
+        width: 100%;
+    }
+    #work h3 {
+        font-family: maven_promedium;
+        font-size: 14px;
+        padding-top: 2%;
+        border-bottom: 1px solid #e2e2e2;
+        padding-bottom: 5%;
+    }
+    .view h3 {
+        padding-bottom: 2% !important;
+        text-align: left;
+        padding-left: 4%;
+    }
+    .service-overlay p {
+        font-size: 13px;
+        padding-top: 2% !important;
+        text-align: left;
+        padding-left: 2% !important;
+    }
+    .ml-auto,
+    .mx-auto {
+        margin-left: 5% !important;
+    }
+    #contact {
+        padding-top: 10%;
+    }
+    #contact .btnstyle {
+        border-radius: 0;
+        background-color: #120e4a;
+        width: 120px;
+        height: 43px;
+        margin-left: -4%;
+        color: #fff;
+        font-family: maven_proregular;
+        font-size: 18px;
+        padding: 0;
+        margin-top: -10%;
+    }
+    #contact .substyle {
+        margin-bottom: 15%;
+    }
+    #contact .map {
+        padding-left: 0;
+    }
+    .footer {
+        font-size: 8px;
+    }
+}
+@media screen and (max-width: 384px) {
+    #iLightbox .iLightbox-container {
+        position: absolute;
+        font-family: sans-serif;
+        margin-top: -145px !important;
+    }
+    .logo {
+        font-size: 30px;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #fff;
+        max-width: 60%;
+        height: auto;
+    }
+    .overlay {
+        width: 100%;
+    }
+    .slider-indicator {
+        left: 25%;
+    }
+    .carousel-caption {
+        position: absolute;
+        top: 7%;
+        left: 0;
+        padding-right: 0;
+    }
+    .carousel-caption p {
+        margin-top: 6%;
+        letter-spacing: 1px;
+        font-size: 12.5px;
+    }
+    .carousel-caption h3 {
+        font-size: 24px;
+        padding-top: 18%;
+    }
+    #highlights {
+        padding-left: 8%;
+    }
+    .lft-space {
+        padding-left: 0;
+    }
+    #highlights .left-sec {
+        padding-right: 0;
+    }
+    #contact {
+        padding-top: 10%;
+    }
+    #gallery {
+        padding-top: 10%;
+    }
+    #amenities {
+        padding-top: 10%;
+    }
+    #about .title {
+        margin-top: 2%;
+        font-size: 42px;
+        margin-bottom: 20%;
+    }
+    #about .left-sec {
+        padding-top: 0;
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 10%;
+        font-family: maven_problack;
+    }
+    #about .img-left {
+        position: absolute;
+        top: 0;
+        left: 28%;
+    }
+    #contact .map {
+        padding-left: 3%;
+    }
+    #work h1 {
+        margin-top: 6%;
+    }
+    .service-overlay {
+        width: 100%;
+    }
+    #work h3 {
+        text-align: left;
+    }
+    .service-overlay p {
+        font-size: 13px;
+        padding-top: 2% !important;
+        text-align: left;
+        padding-left: 2% !important;
+    }
+    #amenities h5 {
+        text-align: left;
+        padding-bottom: 5%;
+        border-bottom: 1px solid #e2e2e2;
+    }
+    #about h1 {
+        text-align: left;
+    }
+    #about .keys {
+        text-align: left;
+    }
+ /*   .ml-auto,
+    .mx-auto {
+        margin-left: 1% !important;
+    }*/
+    #contact {
+        padding-top: 10%;
+    }
+    #contact .btnstyle {
+        border-radius: 0;
+        background-color: #120e4a;
+        width: 120px;
+        height: 43px;
+        margin-left: -4%;
+        color: #fff;
+        font-family: maven_proregular;
+        font-size: 18px;
+        padding: 0;
+        margin-top: -10%;
+    }
+    #contact .substyle {
+        margin-bottom: 15%;
+    }
+    #contact .address {
+        font-size: 14px;
+        font-family: maven_proregular;
+        padding-left: 0 !important;
+    }
+    .footer {
+        font-size: 8px;
+    }
+}
+@media screen and (max-width: 375px) {
+    #iLightbox .iLightbox-container {
+        position: absolute;
+        font-family: sans-serif;
+        margin-top: -145px !important;
+    }
+    .logo {
+        font-size: 30px;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #fff;
+        max-width: 60%;
+        height: auto;
+    }
+    .overlay {
+        width: 100%;
+    }
+    .slider-indicator {
+        left: 25%;
+    }
+    .carousel-caption {
+        position: absolute;
+        top: -6%;
+        left: 0;
+        padding-right: 0;
+    }
+    .carousel-caption p {
+        margin-top: 48%;
+        letter-spacing: 1px;
+        font-size: 28.5px;
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+    .carousel-caption h3 {
+        font-size: 40px;
+        padding-top: 5%;
+    }
+    #highlights {
+        padding-left: 8%;
+    }
+    .lft-space {
+        padding-left: 0;
+    }
+    #highlights .left-sec {
+        padding-right: 0;
+    }
+    #about .title {
+        margin-top: 2%;
+        font-size: 42px;
+        margin-bottom: 20%;
+    }
+    #about .left-sec {
+        padding-top: 0;
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 10%;
+        font-family: maven_problack;
+    }
+    #about .img-left {
+        position: absolute;
+        top: 0;
+        left: 28%;
+    }
+    #contact .map {
+        padding-left: 3%;
+    }
+    #work h1 {
+        margin-top: 6%;
+    }
+    .service-overlay {
+        width: 100%;
+    }
+    #work h3 {
+        font-family: maven_promedium;
+        font-size: 14px;
+        padding-top: 2%;
+        border-bottom: 1px solid #e2e2e2;
+        padding-bottom: 5%;
+        text-align: left;
+    }
+    #amenities h5 {
+        text-align: left;
+        padding-bottom: 5%;
+        border-bottom: 1px solid #e2e2e2;
+        padding-left: 5%;
+    }
+    #about h1 {
+        text-align: left;
+    }
+    #about .keys {
+        text-align: left;
+    }
+    .icon-top-space {
+        padding-top: 4%;
+    }
+    .key-location-btn {
+        width: 200px;
+        font-size: 12px;
+    }
+    .service-overlay p {
+        font-size: 13px;
+        padding-top: 2% !important;
+        text-align: left;
+        padding-left: 2% !important;
+    }
+    .ml-auto,
+    .mx-auto {
+        margin-left: 10 !important;
+    }
+    .floor-title {
+        padding-top: 2%;
+        padding-bottom: 1%;
+        padding-left: 3%;
+    }
+    #contact {
+        padding-top: 10%;
+    }
+    #contact .btnstyle {
+        border-radius: 0;
+        background-color: #120e4a;
+        width: 120px;
+        height: 33px;
+        margin-left: 0;
+        color: #fff;
+        font-family: maven_proregular;
+        font-size: 18px;
+        padding: 0;
+        margin-top: 0;
+    }
+    .contact-section .frm-box {
+        width: 125%;
+    }
+    #contact .substyle {
+        margin-bottom: 15%;
+    }
+    #contact .address {
+        font-size: 14px;
+        font-family: maven_proregular;
+        padding-left: 0 !important;
+    }
+    .footer {
+        font-size: 8px;
+    }
+}
+@media screen and (max-width: 360px) {
+    #iLightbox .iLightbox-container {
+        position: absolute;
+        font-family: sans-serif;
+        margin-top: -145px !important;
+    }
+    .slider-indicator {
+        left: 25%;
+    }
+    .contact-section p {
+        font-size: 13px;
+    }
+}
+@media screen and (max-width: 320px) {
+    #iLightbox .iLightbox-container {
+        position: absolute;
+        font-family: sans-serif;
+        margin-top: -145px !important;
+    }
+    .slider-indicator {
+        position: absolute;
+        bottom: 0;
+        left: 25%;
+    }
+    #about .img-left {
+        position: absolute;
+        top: 0;
+        left: 34%;
+    }
+    #work h2 {
+        font-size: 30px;
+    }
+    .caption-size {
+        font-size: 30px;
+    }
+    #amenities {
+        padding-top: 10%;
+    }
+    #gallery {
+        padding-top: 10%;
+    }
+    .d-xl-none {
+        display: none;
+    }
+    .contact-section p {
+        font-size: 11px;
+    }
+}

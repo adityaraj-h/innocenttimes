@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+   <title>Best Preschool in Pune | Preschool in Aundh | Innocent Times Pvt. Ltd.</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Looking for the right preschool for your child? 
+	Plan a visit to Innocent Times. We have 10+ years of experience in early education and 
+	childcare with an international standards curriculum, 
+	high hygiene & safety, & a child-friendly environment.  ">
+    <meta name="author" content="">
+<link href="asset/bootstrap/bootstrap-4.3.1.css" rel="stylesheet" type="text/css">
+<link href="fonts/barlow/stylesheet.css" type="text/css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="asset/home/custom.css" type="text/css">
+<link href="https://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="asset/responsive/responsive.css" type="text/css">
+<link rel="icon" href="images/favicon-1.png">
+<link rel="stylesheet" href="fonts/barlow/stylesheet.css">
+
+
+<script src="js/jquery-3.4.1.min.js"></script>
+	
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156429659-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-156429659-1');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156920137-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-156920137-1');
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '264523531266117');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=264523531266117&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+   <!-- lightbox css-->  
+	    <link href="lib/custom/custom.css" rel="stylesheet" type="text/css">
+	    <link href="lib/responsive/responsive.css" rel="stylesheet" type="text/css">
+	    <link href="lib/lightbox/css/lightgallery.css" rel="stylesheet">
+        <link type="text/css" rel="stylesheet" href="lib/distance/featherlight.min.css" />
+        <link type="text/css" rel="stylesheet" href="lib/distance/lightbox.css" />
+        <link href="css/jquery.lightbox.css" type="text/css" rel="stylesheet" />
+		<link href="css/pop-window.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="lib/distance/jquery.lightbox.min.js"></script>
+    <script>
+	   $(document).ready(function(e) {
+		    $('a[data-lightbox-gallery]').iLightbox({
+                type: 'image', //'image', 'inline', 'ajax', 'iframe', 'swf' and 'html'
+                loop: true,
+                arrows: true,
+                closeBtn: true,
+                title: null,
+                href: null,
+                content: null,
+                beforeShow: function(a, b){ },
+                onShow: function(a, b){ },
+                beforeClose: function(){ },
+                afterClose: function(){ },
+                onUpdate: function(a){ },
+            });
+       });
+	</script>
+<!--==light-box==-->
+	  <!--Distance-->
+	  
+			<!--===Modal POPUP Window===-->
+		<script type='text/javascript'>
+		$(function(){
+		var overlay = $('<div id="overlayy"></div>');
+		var overlay1 = $('<div id="overlayy1"></div>');
+		setTimeout(function(){ overlay1.hide();}, 3000);
+		overlay1.hide();
+		overlay.show();
+
+		overlay.appendTo(document.body);
+		$("#overlayy,#first_popup").delay(3000).fadeIn(500);
+		
+		$('.close').click(function()
+		{
+			$('#first_popup').hide();
+			$('#sec_popup').hide();
+			overlay.appendTo(document.body);
+			return false;
+		});
+
+
+		$('.close1').click(function()
+		{
+			$('#first_popup').hide();
+			$('#sec_popup').hide();
+			overlay.appendTo(document.body).remove();
+			return false;
+		});
+
+
+		$('.x').click(function(){
+		$('#first_popup').show();
+		overlay.appendTo(document.body).remove();
+		return false;
+		});
+		});
+		</script>
+	  
+		<!--===Modal POPUP Window===-->
+	<style>
+	.popup-form .btnstyle {
+    border: 1px solid black;
+    border-radius: 0px;
+    background-color: #120e4a;
+    width:200px;
+    height: 38px;
+    margin-left: 2%;
+    color: #fff;
+    font-family: 'barlowregular'!important;
+    font-size: 18px;
+    /* margin-bottom: 30px; */
+	padding: 5px;
+	margin-top: 2%;
+   }
+   .closebtn {
+    font-size: 26px;
+    position: absolute;
+    right: 2%;
+    color: #000 !important;
+    top: 0%;
+}
+	 #overlayy {
+    opacity: 0;
+    -moz-animation: cssAnimation 5s;
+    /* Firefox */
+    -webkit-animation: cssAnimation 5s;
+    /* Safari and Chrome */
+    -o-animation: cssAnimation 5s;
+    /* Opera */
+    animation: cssAnimation 5s;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+@keyframes cssAnimation {
+    99% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@-webkit-keyframes cssAnimation {
+    99% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+} 
+@media screen and (max-width: 480px){
+	.popup-form.btnstyle {
+	margin-top: 5%;
+   }
+}
+@media screen and (max-width:320px){
+
+.popup-form .btnstyle {
+    border: 1px solid black;
+    border-radius: 0px;
+    background-color: #120e4a;
+    width: 160px;
+    height: 34px;
+    margin-left: 2%;
+    font-size: 15px;
+    padding: 5px;
+    margin-bottom: 5%;
+}
+}
+	 </style>
+  </head>
+
+  <body id="page-top" style="overflow-x: hidden">
+
+	  <div class='popup' id="first_popup">
+		<div class='cnt223'>
+		<section class="popup-form">
+	<div class="container">
+		<div class="row">
+		<div class="col-sm-12 col-xs-12 text-center ">
+        <p class="form-title text-center share-your-story-heading">Survey</p>
+        <p class="share-your-story-para text-center ">
+		At Innocent Times, we know the value of good education that is inclusive  and accessible to all.
+		Due to COVID-19, our traditional
+		structures are impacted, and that has affected your child's education. 
+		We have taken steps to minimise the impact. And we are discussing further 
+		modifications to improve the education transfer in this new medium. 
+		For that, we need your help. Every opinion counts; we want every child 
+		to get the best, uninterrupted education they need at this crucial age. 
+		Thank you for your support.</p>
+        <a  href="survey.html" class="btn  btnstyle">Take the survey </a>
+		<a href='' class='closebtn close1' >×</a>
+		</div><br><br>
+		</div>
+	</div> </section>
+			
+		</div>
+	</div>
+	
+
+
+
+
+<!--==light-box==-->
+<script src="../js/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+<!--==light-box==-->
+	<!----->
+
+<div class="enquir-tab">
+	<div class="call-icon">
+		<img src="images/home/call.png" alt="call-icon" class="img-fluid call-icon">
+	</div>
+	<div class="call-us">
+			<p><a href="tel:919881455203" style="color: white;">+91 9881455203</a></p>
+		</div>
+	<div class="call-buttons ml-auto">
+		<a href="contact.html"><button type="button" class="btn btn-info">Admission Enquiry</button></a>
+		<a href="franchise-enquiry.html"><button type="button" class="btn btn-info">Franchise Enquiry</button></a>
+	</div>
+</div>
+<div class="wrapper">
+  <div class="container">
+	<nav class="navbar fixed-top navbar-expand-lg navbar-light " style="color:rgb(0,0,0,0.4)">
+		<a class="navbar-brand" href="index.html"><img src="images/Innocent Times Logo Final.png" alt="innocent times logo" class="img-fluid"></a>
+	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+	  
+		 <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+		<ul class="nav ml-auto">
+		  <li class="nav-item dropdown">
+			<a class="nav-link dropdown-toggle" id="navbarDropdown" href="" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">OUR CENTRES</a>
+			  
+			<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+				
+				<h5 id="first"><a class="dropdown-item" href="our-centre-safety.html">SELECTING THE RIGHT CENTRE</a></h5>
+				
+				<h5 id="inside"><a class="dropdown-item dropdown-toggle">INSIDE INNOCENT TIMES</a></h5>
+				
+				<p id="inside1"><a class="dropdown-subitem" href="food-nutrition.html">FOOD AND NUTRITION</a></p>
+				<p id="inside2"><a class="dropdown-subitem" href="childcare-safety.html">CHILDCARE SAFETY</a></p>
+				
+				<h5 id="second"><a class="dropdown-item dropdown-toggle" href="">TESTIMONIALS</a></h5>
+				<p id="two"><a class="dropdown-subitem" href="parent-teacher-testinominal.html">PARENT AND TEACHER TESTIMONIALS</a></p>
+				<p id="three"><a class="dropdown-subitem" href="share-your-story.html">SHARE YOUR INNOCENT TIMES STORY</a></p>
+			
+			<p id="four"><a class="dropdown-item" href="gallery.html">GALLERY</a></p>
+        	</div>
+			  
+		  </li>
+		  <li class="nav-item dropdown">
+			<a class="nav-link dropdown-toggle" id="navbarDropdown2" href="" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PROGRAMMES AND CURRICULUM</a>
+			  <div class="dropdown-menu programmes-item" aria-labelledby="navbarDropdown">
+				
+				<h5><a class="dropdown-item" href="nursery-school.html">NURSERY SCHOOL</a></h5>
+				<h5><a class="dropdown-item" href="infant-care.html">INFANT CARE</a></h5>
+				<h5><a class="dropdown-item" href="toddler-care.html">TODDLER CARE</a></h5>
+				<h5><a class="dropdown-item" href="early-intervention-centre.html">EARLY INTERVENTION CENTRE</a></h5>
+				<h5><a class="dropdown-item" href="inclusive-education-center.html">INCLUSIVE EDUCATION</a></h5>
+				<h5><a class="dropdown-item" href="before-and-after-school-programme.html">BEFORE AND AFTER SCHOOL PROGRAMME</a></h5>
+				<h5><a class="dropdown-item" href="school-break-solutions.html">SCHOOL BREAK SOLUTIONS</a></h5>
+				 <h5><a class="dropdown-item" href="teachers-training-programme.html">TEACHERS' TRAINING PROGRAMME</a></h5>
+				<h5><a class="dropdown-item" href="upcoming-events.html">UPCOMING EVENTS</a></h5>
+        	</div>
+		  </li>
+		  <li class="nav-item dropdown programmes-item">
+			<a class="nav-link dropdown-toggle" id="navbarDropdown1" href="" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">ABOUT</a>
+
+			<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+				<h5 id="about1"><a class="dropdown-item dropdown-toggle" href="">WHO WE ARE</a></h5>
+
+				<p id="about-one"><a class="dropdown-subitem" href="who-we-are.html">OUR PHILOSOPHY</a></p>
+				<p id="about-two"><a class="dropdown-subitem" href="leadership-and-expertise.html">LEADERSHIP &amp; EXPERTISE</a></p>
+				<p id="about-three"><a class="dropdown-subitem" href="innocent-times-legacy-awards.html">INNOCENT TIMES LEGACY AWARDS</a></p>
+				<p id="about-four"><a class="dropdown-subitem" href="team.html">OUR TEAM</a></p>
+
+				<h5 id="about3"><a class="dropdown-item dropdown-toggle" href="">OUR VALUES</a></h5>
+				<p id="about-seven"><a class="dropdown-subitem" href="community-service.html">COMMUNITY SERVICE</a></p>
+				<p id="about-eight"><a class="dropdown-subitem" href="childcare-advocacy.html">CHILDCARE ADVOCACY</a></p>
+			</div>
+ 
+          </li>
+			
+			<li class="nav-item dropdown programmes-item">
+			<a class="nav-link dropdown-toggle" id="navbarDropdown3" href="" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">CONNECT WITH US</a>
+
+			<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+				<h5><a class="dropdown-item" href="careers.html">CAREERS</a></h5>
+				
+				<h5><a class="dropdown-item" href="employer-partnerships.html">EMPLOYER PARTNERSHIPS</a></h5>
+				
+				<h5><a class="dropdown-item" href="preschool-consultancy-services.html">PRESCHOOL CONSULTANCY</a></h5>
+				
+				<h5><a class="dropdown-item" href="franchise-enquiry.html">FRANCHISE ENQUIRY</a></h5>
+			</div>
+ 
+          </li>
+		  <li class="nav-item">
+			<a class="nav-link" href="contact.html">CONTACT US</a>
+		  </li>
+		</ul>
+		
+		
+		<ul class="social ml-auto">
+			<li class="social-icon">
+			<a href="https://www.facebook.com/innocenttimes/" target="_blank"><img src="images/social/facebook.png" alt="facebook"></a>
+		  	</li>
+			
+			<li class="social-icon">
+			<a href="https://www.instagram.com/innocenttimes_pune/" target="_blank"><img src="images/social/instagram.png" alt="instagram"></a>
+		  	</li>
+		</ul>
+      </div>
+    </nav>
+  </div>
+   <div class="home-slider">
+	   <div class="home-caption">
+	       <h1>Discovering your Childhood</h1>
+			<p>This is where a child loves to be.</p>
+		  <a href="who-we-are.html" class="know-more-btn-banner">KNOW MORE</a>
+	    </div>
+	   <img src="images/home/banner.jpg"  alt="innocent times web banner" class="img-fluid d-none d-sm-block">
+	    <img src="images/home/banner-mob.jpg"  alt="innocent times web banner" class="img-fluid d-block d-sm-none">
+	   
+   </div>
+	 
+	<section class="home-school-type">
+	<div class="row">
+	<div class="col-sm-6 lft">
+	<h2>Nursery School</h2>	
+	<a href="nursery-school.html" class="know-more-btn">KNOW MORE</a>
+	</div>
+	<div class="col-sm-6 rft">
+	<h2>After School Learning Centre</h2>	
+	<a href="before-and-after-school-programme.html" class="know-more-btn">KNOW MORE</a>
+	</div>
+	</div>
+		
+	<div class="row">
+	<div class="col-sm-4 lft-div">
+	<h3>Early Intervention  Centre</h3>	
+	<a href="early-intervention-centre.html" class="know-more-btn-div">KNOW MORE</a>
+	</div>
+	<div class="col-sm-4 cen-div">
+	<h3>Teachers' Training Programme</h3>	
+	<a href="teachers-training-programme.html" class="know-more-btn-div">KNOW MORE</a>
+	</div>
+	<div class="col-sm-4 rft-div">
+	<h3>Inclusive Education</h3>	
+	<a href="inclusive-education-center.html" class="know-more-btn-div">KNOW MORE</a>
+	</div>
+	</div>
+	</section>	
+	
+	<section class="home-about-section">
+	<div class="row">
+	<div class="col-sm-6 padding-0">
+		<img src="images/home/about.png" alt="about innocent times " class="img-fluid">
+	</div>
+	<div class="col-sm-6 home-about-para padding-0">
+		<h4>About Innocent Times</h4>
+		<ul class="home-about-list">
+		<li>11 years of experience</li>
+		<li>Child and age-appropriate curriculum</li>
+		<li>Experiential Learning</li>
+		<li> 1:5 Childcare Ratio</li>
+		<li>Educator and medical doctor, psychologists on panel</li>
+		<li>Timely feedback with parents</li>
+		<li>Well documented observer</li>
+		</ul>
+		<a href="who-we-are.html" class="know-more-btn-about">KNOW MORE</a>
+	</div>
+	</div>
+	</section>
+<section class="team">
+	<div class="container">
+	<div class="row">
+	 <div class="col-sm-4 col-lg-4 col-md-4 col-xs-4">
+	  <h2 class="team-title">Our Leadership</h2>	
+	  <p class="team-para">Sound leadership is at the core of any successful endeavour. Our management is helmed by Dr Ankita Sanghavi and Mrs Neha Mhalas bringing in the necessary direction and instruments of innovative and visionary teaching.</p>
+		<a href="leadership-and-expertise.html" class="know-more-btn-black">KNOW MORE</a>
+	 </div>
+		
+	 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-3 offset-lg-1 offset-md-1 offset-sm-1 offset-xs-0">
+	  <div class="overlay-box">
+	  <img src="images/home/Mask-Group-3.jpg" alt="Avatar" class="overlay-image">
+	  <div class="overlay">
+		<div class="text">
+<!--
+           <div class=" btn-social-icon hidden-xs">
+            <a href="" class="nav-icon-space"><img src= "images/social/facebook.png" alt="facebook"></a> 
+            <a href="" class="nav-icon-space"><img src="images/social/instagram.png" alt="insta" ></a>  
+            <a href="" class="nav-icon-space"><img src="images/social/twitter.png" alt="linkdin" ></a>
+            <a href="" class="nav-icon-space"><img src="images/social/youtube.png" alt="twitter" ></a> 
+           </div>
+-->
+		 <a href="leadership-and-expertise.html" class="know-more-btn-team">KNOW MORE</a></div>
+	  </div>
+	  </div>
+	 </div>
+		
+	  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-3 offset-lg-1 offset-md-1 offset-sm-1 offset-xs-0">
+	  <div class="overlay-box">
+	  <img src="images/home/Mask-Group-4.jpg" alt="Avatar" class="overlay-image">
+	  <div class="overlay">
+		<div class="text">
+<!--
+		  <div class=" btn-social-icon hidden-xs">
+		   <a href="" class="nav-icon-space"><img src= "images/social/facebook.png" alt="facebook"></a> 
+		   <a href="" class="nav-icon-space"><img src="images/social/instagram.png" alt="insta" ></a>  
+		   <a href="" class="nav-icon-space"><img src="images/social/twitter.png" alt="linkdin" ></a>
+		    <a href="" class="nav-icon-space"><img src="images/social/youtube.png" alt="twitter" ></a> 
+		   </div>
+-->
+		 <a href="leadership-and-expertise.html" class="know-more-btn-team">KNOW MORE</a></div>
+	  </div>
+	  </div>
+	 </div>
+	</div>
+	</div>
+</section>	
+
+  <section class="home-testimonial">
+ 	
+<div class="container">
+	<div class="row">
+		<div class="col-sm-12">
+			<h2 class="title">What Parents Say About Us</h2>
+			<div id="myCarousel" class="carousel slide" data-ride="carousel">
+				<!-- Carousel indicators -->
+			  
+				<!-- Wrapper for carousel items -->
+				<div class="carousel-inner">
+					<div class="item carousel-item active">
+						<div class="row">
+							<div class="col-sm-12">
+								<div class="media">
+									<div class="media-left d-flex mr-3">
+										<a href="#">
+											<img src="images/home/akshit's-mother.jpg" alt="testominal" class="img-fluid">
+										</a>
+									</div>
+									<div class="media-body">
+										<div class="testimonial">
+											<p>The activities you planned, the way you taught was all incredible. It helped Askhit to settle down and realize that school is fun. He was lucky to have teachers like Shabnam and Minal who gave Akshit the foundation which I am sure he will cherish throughout his life.</p>
+											<p class="overview">Upasana Narula, Akshit's Mother, Senior KG</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+						</div>			
+					</div>
+					<div class="item carousel-item">
+						<div class="row">
+							<div class="col-sm-12">
+								<div class="media">
+									<div class="media-left d-flex mr-3">
+										<a href="#">
+										 <img src="images/home/arav's-mother.jpg" alt="testominal" class="img-fluid">
+										</a>
+									</div>
+									<div class="media-body">
+										<div class="testimonial">
+											<p>It has been a wonderful experience with Innocent Times Daycare. It&#39;s nothing but a simple, caring and
+											loving extended family.
+											I feel comfortable knowing my child is growing in a safe and stimulating environment.
+											 Thank you for coaching him and creating a wonderful journey.</p>
+											<p class="overview">Karishma Kirtikar, Aarav's Mother, Playgroup</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+						</div>			
+					</div>
+					<div class="item carousel-item">
+						<div class="row">
+							<div class="col-sm-12">
+								<div class="media">
+									<div class="media-left d-flex mr-3">
+										<a href="#">
+											<img src="images/home/tanaya-pant.jpg" alt="testominal" class="img-fluid">
+										</a>
+									</div>
+									<div class="media-body">
+										<div class="testimonial">
+											<p>We are parents of Tanaya, would like to pass our sincere thanks and appreciation to the Innocent Times team.The activity based learning approach has really augmented my daughters learning skills.The best part of Innocent Time is their child centric approach because of which Tanaya showed impressive progress in reading and penmanship.</p>
+											<p class="overview">Devina &amp; Ashish Pant.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+						</div>		
+					</div>
+					 <div class="controls testimonial_control pull-right " >
+                <a class="left fa fa-chevron-left btn btn-default testimonial_btn " href="#myCarousel"
+                  data-slide="prev"></a>
+
+                <a class="right fa fa-chevron-right btn btn-default testimonial_btn  " href="#myCarousel"
+                  data-slide="next"></a>
+              </div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+</div>
+</section>
+<section class="footer"> 
+	<div class="container">
+	<div class="row">
+	 <div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 col-xs-4">
+		<img src="images/footer-logo.png" alt="innocent images footer logo" class="img-fluid logo-footer">
+	 </div>
+	<div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 col-xs-4">
+		<h3 class="footer-title">Get in Touch</h3>
+		<p class="footer-para">
+		Manohar Bungalow, Plot no. 5, Sr no. 
+		84/2, Baner Rd, Near 
+		Sakalnagar, Aundh, Pune, 
+		Maharashtra 411007
+		<br><br>
+		+91 9881455203<br>
+		+91 20 25653123
+		<br><br>
+		info@innocenttimes.com
+		</p>
+		
+	</div>
+	<div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 col-xs-4 ">
+		<h3 class="footer-title">Useful Links</h3>
+		<a href="nursery-school.html" class="footer-link">Nursery School</a>
+		<hr class="footer-hr">
+		<a href="early-intervention-centre.html" class="footer-link">Early Intervention Centre</a>
+		<hr class="footer-hr">
+		<a href="before-and-after-school-programme.html" class="footer-link ">After School Programme</a>
+		<hr class="footer-hr">
+		<a href="franchise-enquiry.html" class="footer-link">Franchise Enquiry</a>
+		<hr class="footer-hr">
+		<a href="employer-partnerships.html" class="footer-link">Employer Partnerships</a>
+		<hr class="footer-hr">
+		<a href="who-we-are.html" class="footer-link">About Us</a>
+		<hr class="footer-hr">
+		<a href="gallery.html" class="footer-link ">Gallery</a>
+		<hr class="footer-hr">
+	 </div>
+	<div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 col-xs-12 d-none d-sm-block">
+		<h3 class="footer-title">Opening Hours</h3>
+		<a href="#" class="footer-time"><span>Mon-Wed </span>08:00-02:00</a>
+		<hr class="footer-hr">
+		<a href="#" class="footer-time"><span>Thu-Fri </span>&nbsp;&nbsp;&nbsp;&nbsp; 08:00-02:00</a>
+		<hr class="footer-hr">
+		<a href="#" class="footer-time"><span>Saturday</span>&nbsp;&nbsp;&nbsp;Closed</a>
+		<hr class="footer-hr">
+		<a href="#" class="footer-time"><span>Sunday</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Closed</a>
+		<hr class="footer-hr">
+		
+	 </div>
+	<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-xs-12 d-none d-sm-block">
+		<h3 class="footer-title">Quick Connect</h3>
+		 <form action="lite_process.php" method="post" class="space">
+         <div class="col-sm-12" style="padding-left: 0px;background-color:transparent;" >
+          <input type="text" name="userName" class="frmm" placeholder="Name:" required/>
+         </div>
+		  
+         <div class="col-sm-12" style="padding-left: 0px">
+         <input type="text" name="mobile" class="frmm" placeholder="Phone / Mobile No.:" required/>
+         </div>
+
+          
+         <div class="col-sm-12" style="padding-left: 0px">
+         <input type="email" name="email_address" class="frmm" placeholder=" Enter Your E-Mail " required/>
+         </div> 
+        
+         <div class="col-sm-12" style="padding-left: 0px">
+         <textarea name="message" cols="" rows="3" class="frmm" placeholder="Message:" required></textarea>
+         </div>
+         
+         <div class="col-sm-12 sumbit-btm-topsp" style="padding-left: 0px">
+		 <input type="submit" class="sumbit-btn" value="SUBMIT  &rarr;"  />	
+		 </div>
+      
+      </form>
+	 </div>
+	</div>
+		
+	<div class="row">
+				<div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-xs-12">
+					<p class="footer-copyright">Copyright © Innocent Times Childcare Pvt. Ltd. All Rights Reserved•
+						Designed &amp; Developed by:<a href="https://www.optimist.co.in/"> OPTIMIST BRAND DESIGN
+							LLP.</a></p>
+				</div>
+				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 text-right">
+					<p class="mt-15"><a href="terms-and-conditions.html" class="footer-copyright">Terms &amp;
+							Conditions</a> | <a href="privacy-policy.html" class="footer-copyright">Privacy Policy</a>
+					</p>
+				</div>
+			</div>
+	</div>
+</section>
+</div>
+
+<script src="asset/bootstrap/bootstrap-4.3.1.js"> </script>
+<script src="asset/bootstrap/jquery-3.3.1.min.js"></script>
+<!--
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+-->
+<script src="asset/bootstrap/popper.min.js"></script>
+	
+<!--======Porfolio js========-->
+	<script src="lib/porfolio/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	<script src="lib/porfolio/bootstrap.min.js"></script>
+
+<!--======end of porfolio js========-->
+	
+	
+	<!-- Bootstrap core JavaScript -->
+   <!-- <script src="lib/jquery/jquery.min.js"></script>-->
+    <script src="../../js/popper.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Plugin JavaScript -->
+    <script src="lib/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Custom scripts for this template -->
+    <script src="js/grayscale.min.js"></script>
+	
+<!--lightbox-->
+   <!-- <script type="text/javascript" src="lib/lightbox/js/jquery.min.js"></script> -->
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('#lightgallery').lightGallery();
+        });
+    </script>
+    <script src="lib/lightbox/js/lightgallery.js"></script>
+<!--end of lightbox-->
+
+<!--==light-box==-->
+<script src="lib/distance/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+<!--==light-box==-->
+
+
+<!--===Thumb Slider===-->
+<!-- <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>-->
+  <script src="js/thumb-slider/slick.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript">
+    $(document).on('ready', function() {
+      $(".vertical-center-4").slick({
+        dots: true,
+        vertical: true,
+        centerMode: true,
+        slidesToShow: 4,
+        slidesToScroll: 2
+      });
+      $(".vertical-center-3").slick({
+        dots: true,
+        vertical: true,
+        centerMode: true,
+        slidesToShow: 3,
+        slidesToScroll: 3
+      });
+      $(".vertical-center-2").slick({
+        dots: true,
+        vertical: true,
+        centerMode: true,
+        slidesToShow: 2,
+        slidesToScroll: 2
+      });
+      $(".vertical-center").slick({
+        dots: true,
+        vertical: true,
+        centerMode: true,
+      });
+      $(".vertical").slick({
+        dots: true,
+        vertical: true,
+        slidesToShow: 3,
+        slidesToScroll: 3
+      });
+      $(".regular").slick({
+        dots: true,
+        infinite: true,
+        slidesToShow: 3,
+        slidesToScroll: 3,
+		autoplay:true,
+      });
+      $(".center").slick({
+        dots: true,
+        infinite: true,
+        centerMode: true,
+        slidesToShow: 5,
+        slidesToScroll: 3
+      });
+      $(".variable").slick({
+        dots: true,
+        infinite: true,
+        variableWidth: true
+      });
+      $(".lazy").slick({
+        lazyLoad: 'ondemand', // ondemand progressive anticipated
+        infinite: true
+      });
+    });
+</script>
+<!--===Thumb Slider===-->
+<script type="text/javascript">
+        $(document).ready(function(){
+            $('#lightgallery').lightGallery();
+        });
+        </script>
+        <script src="https://cdn.jsdelivr.net/picturefill/2.3.1/picturefill.min.js"></script>
+          <script src="lib/gallery/lightgallery-all.min.js"></script>
+      <script src="lib/gallery/jquery.mousewheel.min.js"></script>
+<style>
+		.floating-wid {
+			position: fixed;
+			bottom: 0px;
+			right: 0px;
+			width: 300px;
+			color: #5B4CA7;
+			background-color: #FFEE00;
+			padding: 20px;
+			z-index: 999999;
+			border-radius: 20px;
+			transform: scale(0.85);
+		}
+
+		.floating-wid h4 {
+			cursor: pointer;
+		}
+	</style>
+	<div class="floating-wid shadow">
+		<h4 class="footer-title text-center" id="getform">Quick Enquiry</h4>
+		<form action="lite_process.php" method="post" class="space d-none" id="showform">
+			<div class="col-sm-12" style="padding-left: 0px;background-color:transparent;">
+				<input type="text" name="userName" class="frmm" placeholder="Name:" required />
+			</div>
+
+			<div class="col-sm-12" style="padding-left: 0px">
+				<input type="text" name="mobile" class="frmm" placeholder="Phone / Mobile No.:" required />
+			</div>
+
+			<div class="col-sm-12" style="padding-left: 0px">
+				<input type="email" name="email_address" class="frmm" placeholder=" Enter Your E-Mail " required />
+			</div>
+
+			<div class="col-sm-12" style="padding-left: 0px">
+				<textarea name="message" cols="" rows="3" class="frmm" placeholder="Message:" required></textarea>
+			</div>
+
+			<div class="col-sm-12 sumbit-btm-topsp" style="padding-left: 0px;">
+				<input style="background-color: #5B4CA7; color: white !important;" type="submit" class="sumbit-btn"
+					value="SUBMIT  &rarr;" />
+			</div>
+
+		</form>
+	</div>
+
+	<script>
+		var getForm = document.getElementById("getform");
+		var showForm = document.getElementById("showform");
+		getForm.addEventListener("click", () => {
+			showForm.classList.toggle("d-none");
+		})
+	</script>
+</body>
+
+</html>

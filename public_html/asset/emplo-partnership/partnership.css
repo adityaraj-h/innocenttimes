@@ -1,0 +1,1538 @@
+@charset "utf-8";
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box
+}
+
+html,
+body {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden
+}
+
+.employer-partnership h2 {
+	font-family: 'barlowbold';
+	font-size: 60px;
+	color: #273684;
+	padding-top: 18%
+}
+
+.employer-partnership p {
+	font-family: 'barlow_semiboldregular';
+	font-size: 30px;
+	padding-bottom: 5%
+}
+
+.employer {
+	display: block;
+	width: 100%
+}
+
+.employer-img {
+	position: relative;
+	width: 50%
+}
+
+.employer-data {
+	position: absolute;
+	width: 40%;
+	top: 66%;
+	left: 44%;
+	background-color: #FFF;
+	padding-top: 6%;
+	padding-bottom: 2%;
+	padding-left: 4%;
+	padding-right: 4%;
+	box-shadow: 0 6px 20px 0 rgba(0, 0, 0, .36)
+}
+
+.employer-data h5 {
+	font-family: 'barlow_semiboldregular';
+	font-size: 28px
+}
+
+.employer-data p {
+	font-family: 'barlowregular';
+	font-size: 18px;
+	line-height: 30px;
+	padding-top: 5%;
+	text-align: left
+}
+
+.violet-rect {
+	position: absolute;
+	left: 67%;
+	top: -8%;
+	width: 5%
+}
+
+.benefits-organisation {
+	background-image: url(../../images/employer-partnership/employer1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: -1.5%
+}
+
+.benefits-organisation h3 {
+	font-family: 'barlow_semiboldregular';
+	font-size: 34px;
+	color: #fff;
+	padding-top: 15%
+}
+
+.benefits-organisation ul {
+	padding-top: 2%;
+	padding-bottom: 10%;
+	padding-left: 15%;
+	padding-right: 15%
+}
+
+.benefits-organisation li {
+	font-family: 'barlowregular';
+	list-style: none;
+	font-size: 22px;
+	color: #fff;
+	text-align: center
+}
+
+.list-parthership {
+	list-style: square !important;
+	text-align: left !important;
+	margin-left: 26%
+}
+
+.benefits-organisation1 {
+	background-color: #7810E0
+}
+
+.benefits-organisation1 h3 {
+	font-family: 'barlow_semiboldregular';
+	font-size: 34px;
+	color: #fff;
+	text-align: center;
+	padding-top: 5%
+}
+
+.benefits-organisation1 p {
+	font-family: 'barlowregular';
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+	padding-bottom: 5%
+}
+
+.benefits-organisation2 {
+	background-color: #F2F2F2;
+	margin-top: -1.2%;
+	margin-bottom: -1.2%
+}
+
+.benefits-organisation2 h3 {
+	font-family: 'barlowregular';
+	font-size: 40px;
+	text-align: center;
+	padding-top: 3%
+}
+
+.benefits-organisation2 p {
+	font-family: 'barlowregular';
+	font-size: 18px;
+	text-align: center;
+	padding-left: 15%;
+	padding-right: 15%;
+	line-height: 30px;
+	padding-bottom: 3%;
+	padding-top: 2%
+}
+
+.flow-chart h3 {
+	font-family: 'barlowregular';
+	font-size: 40px;
+	padding-top: 3%;
+	text-align: center
+}
+
+.flow-chart p {
+	font-family: 'barlowregular';
+	font-size: 18px;
+	text-align: center;
+	padding-top: 1%;
+	padding-bottom: 3%;
+	padding-left: 12%;
+	padding-right: 12%
+}
+
+.img-flow-chart {
+	padding: 5%
+}
+
+.children-system {
+	background-color: #1020E0;
+	padding: 2%
+}
+
+.children-system h3 {
+	font-family: 'barlowregular';
+	font-size: 40px;
+	text-align: center;
+	color: #fff;
+	padding-top: 3%
+}
+
+.children-system p {
+	font-family: 'barlowregular';
+	font-size: 18px;
+	text-align: center;
+	color: #fff;
+	padding-top: 1%;
+	padding-bottom: 2%;
+	padding-left: 9%;
+	padding-right: 9%
+}
+
+.centers {
+	padding-bottom: 5%
+}
+
+.centers h3 {
+	font-family: 'barlow_semiboldregular';
+	font-size: 40px;
+	text-align: center;
+	padding-top: 4%;
+	padding-bottom: 5%
+}
+
+.centers .centers-name {
+	font-family: 'barlow_semiboldregular';
+	font-size: 16px;
+	text-align: center
+}
+
+.centers .centers-address {
+	font-family: 'barlow_semiboldregular';
+	font-size: 15px;
+	position: absolute;
+	top: 80%;
+	left: 30%
+}
+
+.centers .centers-para {
+	font-family: 'barlowregular';
+	font-size: 16px;
+	text-align: center
+}
+
+.vl {
+	border-right: 1.5px solid #70707038;
+	height: 170px
+}
+
+.programmes-we-offer {
+	background-image: url(../../images/employer-partnership/employer1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: -1.5%;
+	padding-top: 4%
+}
+
+.employer-partnership p.nursery-subheading {
+	font-family: 'barlow_mediumregular';
+	font-size: 16px;
+	padding: 2%;
+	padding-left: 16%;
+	padding-right: 16%;
+	padding-top: 0%
+}
+
+.employer-data ul {
+	font-family: 'barlowregular';
+	font-size: 18px;
+	line-height: 30px;
+	text-align: left;
+	margin-top: -10%;
+	margin-left: 5%
+}
+
+.white-color {
+	color: #fff !important
+}
+
+.vl-nursary {
+	border-right: 1.5px solid #ffffff8a;
+	height: auto
+}
+
+.learn-more {
+	border: 1px solid #fff;
+	font-family: 'barlowregular';
+	font-size: 14px;
+	padding: 2%;
+	text-align: center;
+	color: #fff;
+	border-color: #0056b3
+}
+
+.learn-more:hover {
+	color: #fff
+}
+
+@media screen and (max-width:2560px) {
+	.employer-partnership h2 {
+		font-size: 75px;
+		padding-top: 15%
+	}
+
+	.employer-partnership p {
+		font-size: 38px;
+		padding-bottom: 3%
+	}
+
+	.centers .centers-para {
+		font-size: 22px
+	}
+
+	.learn-more {
+		font-size: 20px;
+		margin-left: 0% !important
+	}
+
+	.employer-data p {
+		font-size: 28px !important;
+		line-height: 50px
+	}
+
+	.employer-img {
+		left: 5%
+	}
+
+	.employer-data {
+		top: 60%;
+		left: 37%;
+		padding-top: 2%
+	}
+
+	.mission {
+		margin-top: 0%;
+		font-size: 28px
+	}
+
+	.employer-data h5 {
+		font-size: 38px
+	}
+
+	.violet-rect {
+		left: 73%;
+		top: -11%
+	}
+
+	.benefits-organisation h3 {
+		font-size: 55px;
+		padding-top: 10%
+	}
+
+	.benefits-organisation li {
+		font-size: 28px
+	}
+
+	.benefits-organisation1 h3 {
+		font-size: 46px;
+		padding-top: 4%
+	}
+
+	.benefits-organisation1 p {
+		font-size: 28px
+	}
+
+	.benefits-organisation2 p {
+		font-size: 28px;
+		line-height: 45px
+	}
+
+	.flow-chart h3,
+	.children-system h3,
+	.benefits-organisation2 h3,
+	.centers h3 {
+		font-size: 55px
+	}
+
+	.flow-chart p {
+		font-size: 28px;
+		line-height: 45px
+	}
+
+	.img-flow-chart {
+		margin-left: 15%
+	}
+
+	.children-system p {
+		font-size: 28px;
+		line-height: 45px
+	}
+
+	.centers .centers-name {
+		font-size: 26px
+	}
+
+	.vl {
+		height: 220px
+	}
+
+	.centers .centers-address {
+		font-size: 25px;
+		top: 87%;
+		left: 32%
+	}
+}
+
+@media screen and (max-width:1920px) {
+	.employer-partnership h2 {
+		font-size: 65px;
+		padding-top: 15%
+	}
+
+	.employer-partnership p.nursery-subheading {
+		font-size: 23px;
+		padding: 2%;
+		padding-left: 10%;
+		padding-right: 10%
+	}
+
+	.employer-partnership p {
+		font-size: 34px;
+		padding-bottom: 3%
+	}
+
+	.employer-data {
+		top: 70%;
+		left: 47%
+	}
+
+	.violet-rect {
+		left: 80%;
+		top: -8%
+	}
+
+	.employer-data h5 {
+		font-size: 34px
+	}
+
+	.employer-data p {
+		font-size: 24px !important;
+		line-height: 40px
+	}
+
+	.employer-data ul {
+		font-size: 25px;
+		line-height: 34px;
+		margin-top: -5%;
+		margin-left: 3%
+	}
+
+	.benefits-organisation h3 {
+		font-size: 50px;
+		padding-top: 15%
+	}
+
+	.benefits-organisation li {
+		font-size: 26px
+	}
+
+	.benefits-organisation1 h3 {
+		font-size: 42px;
+		padding-top: 4%
+	}
+
+	.flow-chart h3,
+	.children-system h3,
+	.benefits-organisation2 h3,
+	.centers h3 {
+		font-size: 50px
+	}
+
+	.benefits-organisation2 p,
+	.flow-chart p,
+	.benefits-organisation1 p,
+	.children-system p {
+		font-size: 24px;
+		line-height: 40px
+	}
+
+	.img-flow-chart {
+		margin-left: 10%
+	}
+
+	.centers .centers-name {
+		font-size: 24px
+	}
+
+	.centers .centers-address {
+		font-size: 23px;
+		top: 87%;
+		left: 32%
+	}
+}
+
+@media screen and (max-width:1600px) {
+	.employer-partnership h2 {
+		font-size: 47px;
+		padding-top: 18%
+	}
+
+	.employer-partnership p.nursery-subheading {
+		font-family: 'barlow_mediumregular';
+		font-size: 20px
+	}
+
+	.employer-partnership p {
+		font-size: 30px;
+		padding-bottom: 3%
+	}
+
+	.employer-data h5 {
+		font-size: 30px
+	}
+
+	.employer-data p {
+		font-size: 22px !important;
+		line-height: 35px
+	}
+
+	.employer-data ul {
+		font-size: 20px;
+		line-height: 30px;
+		text-align: left;
+		margin-top: -10%;
+		margin-left: 2%
+	}
+
+	.employer-data {
+		position: absolute;
+		width: 40%;
+		padding-top: 3%;
+		padding-bottom: 0%
+	}
+
+	.employer-data {
+		top: 56%;
+		left: 47%
+	}
+
+	.violet-rect {
+		left: 91%;
+		top: -14%
+	}
+
+	.centers .centers-para {
+		font-size: 17px
+	}
+
+	.employer-img {
+		left: 0%
+	}
+
+	.employer-data {
+		top: 72%;
+		left: 45%;
+		padding-top: 3%;
+		padding-bottom: 3%
+	}
+
+	.infant-data {
+		width: 35%;
+		top: 58%;
+		left: 44%;
+		padding-top: 2%;
+		padding-bottom: 5%;
+		padding-left: 2%;
+		padding-right: 1%;
+		font-size: 18px
+	}
+
+	.employer-partnership p.nursery-subheading {
+		font-family: 'barlow_mediumregular';
+		font-size: 18px
+	}
+
+	.infant-care-para {
+		font-size: 21px
+	}
+
+	.benefits-organisation h3 {
+		font-size: 45px;
+		padding-top: 15%
+	}
+
+	.benefits-organisation li {
+		font-size: 24px
+	}
+
+	.benefits-organisation1 h3 {
+		font-size: 38px;
+		padding-top: 4%
+	}
+
+	.benefits-organisation2 p,
+	.flow-chart p,
+	.benefits-organisation1 p,
+	.children-system p {
+		font-size: 22px;
+		line-height: 35px
+	}
+
+	.flow-chart h3,
+	.children-system h3,
+	.benefits-organisation2 h3,
+	.centers h3 {
+		font-size: 42px
+	}
+
+	.img-flow-chart {
+		margin-left: 3%;
+		padding: 10%;
+		margin-top: -6%
+	}
+
+	.centers .centers-name {
+		font-size: 22px
+	}
+
+	.centers .centers-address {
+		font-size: 21px;
+		top: 82%;
+		left: 25%
+	}
+
+	.learn-more {
+		font-size: 16px;
+		margin-left: 0% !important
+	}
+}
+
+@media screen and (max-width:1440px) {
+	.employer-partnership h2 {
+		font-size: 60px;
+		padding-top: 20%
+	}
+
+	.employer-partnership p {
+		font-size: 30px;
+		padding-bottom: 5%
+	}
+
+	.employer-data h5 {
+		font-size: 28px
+	}
+
+	.employer-data p {
+		font-size: 18px !important;
+		line-height: 30px
+	}
+
+	.centers .centers-para {
+		font-size: 14px
+	}
+
+	.learn-more {
+		font-size: 14px
+	}
+
+	.employer-data ul {
+		font-size: 18px;
+		line-height: 30px;
+		text-align: left;
+		margin-top: -10%;
+		margin-left: 2%
+	}
+
+	.employer-data {
+		top: 75%;
+		left: 44%
+	}
+
+	.inclusive-data {
+		top: 98%
+	}
+
+	.nursery-data {
+		top: 84%;
+		padding-top: 1%;
+		padding-bottom: 1%
+	}
+
+	.benefits-organisation h3 {
+		font-size: 34px;
+		padding-top: 15%
+	}
+
+	.benefits-organisation li {
+		font-size: 22px
+	}
+
+	.benefits-organisation1 h3 {
+		font-size: 34px;
+		padding-top: 5%
+	}
+
+	.benefits-organisation2 p,
+	.flow-chart p,
+	.benefits-organisation1 p,
+	.children-system p {
+		font-size: 18px;
+		line-height: 30px
+	}
+
+	.flow-chart h3,
+	.children-system h3,
+	.benefits-organisation2 h3,
+	.centers h3 {
+		font-size: 40px
+	}
+
+	.img-flow-chart {
+		margin-top: 1%;
+		padding: 5%
+	}
+
+	.centers .centers-name {
+		font-size: 20px
+	}
+
+	.centers .centers-address {
+		font-size: 18px;
+		top: 76%;
+		left: 24%
+	}
+
+	.mission-point {
+		font-size: 18px;
+		margin-top: 1%
+	}
+
+	.benefits-organisation2 p {
+		padding-top: 3%
+	}
+}
+
+@media screen and (max-width:1280px) and (max-height:1024px) {
+	.employer-partnership h2 {
+		font-size: 58px;
+		padding-top: 22%
+	}
+
+	.employer-partnership p {
+		font-size: 28px;
+		padding-bottom: 8%
+	}
+
+	.employer-data {
+		top: 65%;
+		left: 44%
+	}
+
+	.centers h3 {
+		padding-top: 13%
+	}
+
+	.violet-rect {
+		left: 91%;
+		top: -8%
+	}
+
+	.employer-data h5 {
+		font-size: 27px
+	}
+
+	.employer-data p {
+		font-size: 17px !important;
+		line-height: 32px
+	}
+
+	.benefits-organisation h3 {
+		font-size: 33px;
+		padding-top: 15%
+	}
+
+	.benefits-organisation li {
+		font-size: 21px
+	}
+
+	.benefits-organisation ul {
+		padding-bottom: 7%
+	}
+
+	.benefits-organisation1 h3 {
+		font-size: 32px;
+		padding-top: 5%
+	}
+
+	.benefits-organisation2 p,
+	.flow-chart p,
+	.benefits-organisation1 p,
+	.children-system p {
+		font-size: 17px;
+		line-height: 32px
+	}
+
+	.flow-chart h3,
+	.children-system h3,
+	.benefits-organisation2 h3,
+	.centers h3 {
+		font-size: 38px
+	}
+
+	.img-flow-chart {
+		margin-top: -6%;
+		padding: 10%
+	}
+
+	.centers .centers-name {
+		font-size: 18px
+	}
+
+	.centers .centers-address {
+		font-size: 17px;
+		top: 70%;
+		left: 25%
+	}
+}
+
+@media screen and (max-width:1280px) and (max-height:610px) {
+	.early-data {
+		top: 80% !important
+	}
+
+	.employer-partnership h2 {
+		font-size: 56px;
+		padding-top: 22%
+	}
+
+	.employer-partnership p {
+		font-size: 26px;
+		padding-bottom: 10%
+	}
+
+	.employer-data {
+		top: 108%;
+		left: 44%
+	}
+
+	.inclusive-data {
+		top: 118%
+	}
+
+	.nursery-data {
+		top: 114%;
+		left: 44%
+	}
+
+	.employer-data ul {
+		font-size: 16px;
+		line-height: 24px;
+		text-align: left;
+		margin-top: -17%;
+		margin-left: 2%
+	}
+
+	.violet-rect {
+		left: 78%;
+		top: -8%
+	}
+
+	.benefits-organisation h3 {
+		font-size: 32px;
+		padding-top: 17%
+	}
+
+	.benefits-organisation li {
+		font-size: 20px
+	}
+
+	.benefits-organisation1 h3 {
+		font-size: 31px;
+		padding-top: 5%
+	}
+
+	.benefits-organisation2 p,
+	.flow-chart p,
+	.benefits-organisation1 p,
+	.children-system p {
+		font-size: 16px;
+		line-height: 32px
+	}
+
+	.flow-chart h3,
+	.children-system h3,
+	.benefits-organisation2 h3,
+	.centers h3 {
+		font-size: 29px
+	}
+
+	.centers .centers-name {
+		font-size: 17px
+	}
+
+	.centers .centers-address {
+		font-size: 16px;
+		top: 67%;
+		left: 26%
+	}
+
+	.centers .centers-address {
+		font-size: 16px;
+		top: 72%;
+		left: 25%
+	}
+
+	.vl {
+		height: 170px !important
+	}
+
+	.mission-point {
+		font-size: 18px;
+		margin-top: 2%
+	}
+
+	.flow-chart h3 {
+		padding-top: 6%
+	}
+}
+
+@media screen and (max-width:1240px) {
+	.employer-partnership h2 {
+		font-size: 56px;
+		padding-top: 22%
+	}
+
+	.employer-partnership p {
+		font-size: 26px;
+		padding-bottom: 8%
+	}
+
+	.employer-data {
+		top: 68%;
+		left: 44%
+	}
+
+	.nursery-data {
+		top: 82%;
+		left: 44%
+	}
+
+	.violet-rect {
+		left: 75%;
+		top: -8%
+	}
+
+	.employer-data h5 {
+		font-size: 26px
+	}
+
+	.employer-data p {
+		font-size: 17px !important;
+		line-height: 30px
+	}
+
+	.benefits-organisation h3 {
+		font-size: 32px;
+		padding-top: 16%
+	}
+
+	.benefits-organisation li {
+		font-size: 20px
+	}
+
+	.benefits-organisation1 h3 {
+		font-size: 30px;
+		padding-top: 5%
+	}
+
+	.benefits-organisation2 p,
+	.flow-chart p,
+	.benefits-organisation1 p,
+	.children-system p {
+		font-size: 16px;
+		line-height: 30px
+	}
+
+	.flow-chart h3,
+	.children-system h3,
+	.benefits-organisation2 h3,
+	.centers h3 {
+		font-size: 36px
+	}
+
+	.centers .centers-name {
+		font-size: 17px
+	}
+
+	.centers .centers-address {
+		font-size: 16px;
+		top: 77%;
+		left: 27%
+	}
+
+	.vl {
+		height: 170px
+	}
+}
+
+@media screen and (max-width:1024px) {
+	.employer-partnership h2 {
+		font-size: 54px;
+		padding-top: 25%
+	}
+
+	.employer-data ul {
+		font-size: 16px;
+		line-height: 30px;
+		text-align: left;
+		margin-top: -18%;
+		margin-left: 2%
+	}
+
+	.employer-partnership p {
+		font-size: 24px;
+		padding-bottom: 8%
+	}
+
+	.employer-data {
+		top: 63%;
+		left: 44%
+	}
+
+	.nursery-data {
+		top: 70%;
+		left: 44%;
+		padding-top: 2%
+	}
+
+	.programmes-we-offer {
+		padding-top: 10%
+	}
+
+	.employer-data h5 {
+		font-size: 24px
+	}
+
+	.employer-data p {
+		font-size: 16px !important;
+		line-height: 28px
+	}
+
+	.benefits-organisation h3 {
+		font-size: 30px;
+		padding-top: 22%
+	}
+
+	.benefits-organisation li {
+		font-size: 19px
+	}
+
+	.benefits-organisation1 h3 {
+		font-size: 28px;
+		padding-top: 5%
+	}
+
+	.flow-chart h3,
+	.children-system h3,
+	.benefits-organisation2 h3,
+	.centers h3 {
+		font-size: 27px
+	}
+
+	.benefits-organisation2 p,
+	.flow-chart p,
+	.benefits-organisation1 p,
+	.children-system p {
+		font-size: 15px;
+		line-height: 27px
+	}
+
+	.centers .centers-name {
+		font-size: 16px
+	}
+
+	.centers .centers-address {
+		font-size: 15px;
+		top: 76%;
+		left: 24%
+	}
+
+	.mission-point {
+		font-size: 16px;
+		margin-top: 3%
+	}
+}
+
+@media screen and (max-width:800px) {
+	.employer-data {
+		top: 40%;
+		left: 44%
+	}
+
+	.nursery-data {
+		top: 44%;
+		left: 15%;
+		width: 74%;
+		padding-bottom: 0%
+	}
+
+	.employer-img {
+		left: 0%
+	}
+
+	.edu-visibilty {
+		visibility: visible !important
+	}
+
+	.employer-partnership h2 {
+		font-size: 40px;
+		padding-top: 34%
+	}
+}
+
+@media screen and (max-width:768px) {
+	.nursery-data {
+		top: 58%;
+		left: 15%;
+		width: 74%;
+		padding-bottom: 0%
+	}
+}
+
+@media screen and (max-width:480px) {
+	.employer-partnership p.nursery-subheading {
+		font-size: 17px;
+		padding-left: 0%;
+		padding-right: 0%
+	}
+
+	.mission-point {
+		font-size: 19px;
+		margin-top: -10%;
+		line-height: 30px
+	}
+
+	.benefits-organisation2 p {
+		font-size: 18px;
+		line-height: 32px;
+		padding-top: 0%;
+		margin-top: -6%
+	}
+
+	.vl-nursary {
+		border-right: navajowhite;
+		height: auto;
+		padding-bottom: 6%
+	}
+
+	.employer-partnership h2 {
+		font-size: 39px;
+		padding-top: 40%
+	}
+
+	.employer-partnership p {
+		font-size: 22px;
+		padding-bottom: 8%
+	}
+
+	.employer {
+		box-shadow: 1px -1px 8px 2px rgba(0, 0, 0, .11)
+	}
+
+	.benefits-organisation2 {
+		margin-top: 10%
+	}
+
+	.employer-img {
+		width: 100%;
+		display: block;
+		visibility: initial
+	}
+
+	.employer-data {
+		position: initial;
+		width: 100%;
+		top: 75%;
+		left: 8%;
+		margin-bottom: 15%
+	}
+
+	.violet-rect {
+		left: 78%;
+		top: 71%
+	}
+
+	.employer-data h5 {
+		font-size: 25px;
+		padding-top: 5%
+	}
+
+	.employer-data p {
+		font-size: 18px !important;
+		line-height: 32px
+	}
+
+	.benefits-organisation h3 {
+		font-size: 30px;
+		padding-top: 15%
+	}
+
+	.benefits-organisation li {
+		font-size: 18px
+	}
+
+	.benefits-organisation {
+		padding: 5%
+	}
+
+	.benefits-organisation2 p,
+	.flow-chart p,
+	.benefits-organisation1 p,
+	.children-system p {
+		font-size: 18px;
+		line-height: 32px
+	}
+
+	.benefits-organisation1 {
+		padding: 1%
+	}
+
+	.benefits-organisation ul {
+		padding-top: 2%;
+		padding-bottom: 10%;
+		padding-left: 0%;
+		padding-right: 0%
+	}
+
+	.flow-chart h3,
+	.children-system h3,
+	.benefits-organisation2 h3,
+	.centers h3 {
+		font-size: 27px;
+		padding-top: 15%
+	}
+
+	.benefits-organisation2 p,
+	.flow-chart p,
+	.children-system p {
+		padding-left: 0%;
+		padding-right: 0%
+	}
+
+	.img-flow-chart {
+		margin-top: -2%;
+		padding: 3%;
+		margin-bottom: 10%;
+		margin-left: 0%
+	}
+
+	.centers .centers-name {
+		font-size: 18px;
+		margin-bottom: 12%
+	}
+
+	.centers .centers-address {
+		font-size: 17px;
+		top: 73%;
+		left: 35%
+	}
+
+	.vl {
+		border-bottom: 1.5px solid #70707038;
+		border-right: 0;
+		margin-bottom: 5%
+	}
+}
+
+@media screen and (max-width:414px) {
+	.employer-partnership h2 {
+		font-size: 34px;
+		padding-top: 45%
+	}
+
+	.employer-partnership p {
+		font-size: 20px;
+		padding-bottom: 8%
+	}
+
+	.employer-data h5 {
+		font-size: 24px;
+		padding-top: 5%;
+		line-height: 32px
+	}
+
+	.violet-rect {
+		left: 78%;
+		top: 74%
+	}
+
+	.employer-data p {
+		font-size: 16px !important;
+		line-height: 30px
+	}
+
+	.benefits-organisation h3 {
+		font-size: 28px;
+		padding-top: 15%
+	}
+
+	.benefits-organisation li {
+		font-size: 16px
+	}
+
+	.benefits-organisation1 h3 {
+		font-size: 24px;
+		padding-top: 10%
+	}
+
+	.benefits-organisation2 p,
+	.flow-chart p,
+	.benefits-organisation1 p,
+	.children-system p {
+		font-size: 16px;
+		line-height: 30px
+	}
+
+	.flow-chart h3,
+	.children-system h3,
+	.benefits-organisation2 h3,
+	.centers h3 {
+		font-size: 25px;
+		padding-top: 10%
+	}
+
+	.centers .centers-name {
+		font-size: 16px;
+		margin-bottom: 16%
+	}
+
+	.centers .centers-address {
+		font-size: 16px;
+		top: 73%;
+		left: 33%
+	}
+
+	.mission-point {
+		font-size: 16px;
+		margin-top: -12%;
+		line-height: 30px
+	}
+}
+
+@media screen and (max-width:384px) {
+	.employer-partnership h2 {
+		font-size: 28px;
+		padding-top: 50%
+	}
+
+	.employer-partnership p.nursery-subheading {
+		font-size: 14px;
+		padding-left: 0%;
+		padding-right: 0%
+	}
+
+	.employer-data ul {
+		font-size: 16px;
+		line-height: 30px;
+		text-align: left;
+		margin-top: -19%;
+		margin-left: 5%
+	}
+
+	.employer-partnership p {
+		font-size: 18px;
+		padding-bottom: 8%
+	}
+
+	.violet-rect {
+		left: 78%;
+		top: 76%
+	}
+
+	.employer-data h5 {
+		font-size: 21px;
+		padding-top: 5%;
+		line-height: 32px;
+		margin-bottom: -2%
+	}
+
+	.employer-data p {
+		font-size: 15px !important;
+		line-height: 27px
+	}
+
+	.benefits-organisation h3 {
+		font-size: 24px;
+		padding-top: 15%
+	}
+
+	.benefits-organisation li {
+		font-size: 15px
+	}
+
+	.benefits-organisation1 h3 {
+		font-size: 21px;
+		padding-top: 10%
+	}
+
+	.benefits-organisation2 p,
+	.flow-chart p,
+	.benefits-organisation1 p,
+	.children-system p {
+		font-size: 15px;
+		line-height: 27px
+	}
+
+	.flow-chart h3,
+	.children-system h3,
+	.benefits-organisation2 h3,
+	.centers h3 {
+		font-size: 22px;
+		padding-top: 7%
+	}
+
+	.centers .centers-name {
+		font-size: 14px;
+		margin-bottom: 10%
+	}
+
+	.centers .centers-address {
+		font-size: 14px;
+		top: 61%;
+		left: 33%
+	}
+
+	.vl {
+		height: 10%
+	}
+}
+
+@media screen and (max-width:375px) {
+	.violet-rect {
+		left: 78%;
+		top: 73%
+	}
+}
+
+@media screen and (max-width:360px) {
+	.employer-partnership h2 {
+		font-size: 29px;
+		padding-top: 48%
+	}
+
+	.employer-partnership p {
+		font-size: 17px;
+		padding-bottom: 8%
+	}
+
+	.employer-data h5 {
+		font-size: 19px;
+		padding-top: 5%;
+		line-height: 32px;
+		margin-bottom: -2%
+	}
+
+	.employer-data ul {
+		font-size: 14px;
+		line-height: 26px;
+		text-align: left;
+		margin-top: -19%;
+		margin-left: 5%
+	}
+
+	.employer-data p {
+		font-size: 14px !important;
+		line-height: 23px
+	}
+
+	.benefits-organisation h3 {
+		font-size: 22px;
+		padding-top: 15%
+	}
+
+	.benefits-organisation li {
+		font-size: 14px
+	}
+
+	.benefits-organisation1 h3 {
+		font-size: 20px;
+		padding-top: 10%
+	}
+
+	.benefits-organisation2 p,
+	.flow-chart p,
+	.benefits-organisation1 p,
+	.children-system p {
+		font-size: 14px;
+		line-height: 25px
+	}
+
+	.flow-chart h3,
+	.children-system h3,
+	.benefits-organisation2 h3,
+	.centers h3 {
+		font-size: 26px;
+		padding-top: 7%
+	}
+}
+
+@media screen and (max-width:320px) {
+	.employer-partnership h2 {
+		font-size: 25px;
+		padding-top: 50%
+	}
+
+	.employer-partnership p {
+		font-size: 16px;
+		padding-bottom: 8%
+	}
+
+	.violet-rect {
+		left: 78%;
+		top: 75%;
+		visibility: hidden
+	}
+
+	.employer-data h5 {
+		font-size: 18px;
+		padding-top: 5%;
+		line-height: 32px;
+		margin-bottom: -2%
+	}
+
+	.employer-data p {
+		font-size: 12px !important;
+		line-height: 21px
+	}
+
+	.benefits-organisation h3 {
+		font-size: 20px;
+		padding-top: 15%
+	}
+
+	.benefits-organisation1 h3 {
+		font-size: 19px;
+		padding-top: 10%
+	}
+
+	.benefits-organisation2 p,
+	.flow-chart p,
+	.benefits-organisation1 p,
+	.children-system p {
+		font-size: 12px;
+		line-height: 22px
+	}
+
+	.flow-chart h3,
+	.children-system h3,
+	.benefits-organisation2 h3,
+	.centers h3 {
+		font-size: 18px;
+		padding-top: 7%
+	}
+}

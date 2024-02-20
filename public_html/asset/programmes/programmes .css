@@ -1,0 +1,1097 @@
+@charset "utf-8";
+
+.school-break {
+	color: #000;
+	padding: 3%;
+	margin-top: 0%;
+	margin-bottom: 10%
+}
+
+.school-break-title {
+	color: #273684;
+	font-family: 'barlow_semiboldregular';
+	font-size: 35px;
+	padding-left: 7%
+}
+
+.before-after-heading {
+	color: #fff;
+	font-family: 'barlow_semiboldregular';
+	font-size: 26px
+}
+
+.before-bgimg {
+	background-image: url(../../images/programmes/bg1.jpg) !important
+}
+
+.before-bgimg02 {
+	background-image: url(../../images/programmes/bg2.jpg) !important
+}
+
+.infant-img {
+	position: relative;
+	width: 50%
+}
+
+.infant-data {
+	position: absolute;
+	width: 35%;
+	top: 58%;
+	left: 44%;
+	background-color: #FFF;
+	padding-top: 6%;
+	padding-bottom: 5%;
+	padding-left: 4%;
+	padding-right: 4%;
+	box-shadow: 0 6px 20px 0 rgba(0, 0, 0, .36);
+	font-family: 'barlowregular';
+	font-size: 18px
+}
+
+.infant-care-heading {
+	font-family: 'barlow_semiboldregular';
+	font-size: 35px;
+	text-align: center;
+	padding-top: 6%
+}
+
+.infant-care-para {
+	font-family: 'barlowregular';
+	font-size: 16px;
+	text-align: center
+}
+
+.infant-subdescsubtitle {
+	font-family: 'barlow_semiboldregular';
+	font-size: 20px;
+	text-align: center;
+	padding-top: 6%
+}
+
+.infant-subdesc {
+	font-family: 'barlowregular';
+	font-size: 16px;
+	text-align: center
+}
+
+.blue-bg {
+	background-color: #1020e0;
+	color: #fff !important;
+	padding-top: 2%;
+	padding-bottom: 5%
+}
+
+.infant-list-wrapper {
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 5%
+}
+
+.infant-list-img {
+	width: 33%
+}
+
+.infant-list {
+	color: #20192B;
+	font-family: 'barlowregular';
+	font-size: 16px;
+	text-align: left;
+	padding-right: 0%;
+	margin-left: -5%
+}
+
+.infant-subtitle {
+	color: #20192B;
+	font-family: 'barlowbold';
+	font-size: 25px;
+	text-align: left;
+	padding-top: 5%;
+	padding-bottom: 1%
+}
+
+.team-designation {
+	font-family: 'barlow_semiboldregular';
+	font-size: 14px
+}
+
+.v2 {
+	border-right: 1.5px solid #70707038;
+	height: auto
+}
+
+.list-img {
+	position: absolute;
+	width: 5%;
+	margin-top: 1%
+}
+
+.listpara {
+	position: relative;
+	padding-left: 10%;
+	font-size: 15px
+}
+
+.children-safety-title {
+	padding-left: 0%;
+	padding-top: 5%;
+	color: #000;
+	font-family: 'barlow_semiboldregular';
+	font-size: 24px
+}
+
+.safety-border {
+	box-shadow: -2px 6px 16px 1px #9191914a;
+	padding: 5%
+}
+
+.children-safety {
+	box-shadow: 2px -7px 15px 0 #9191914a;
+	transition: transform .5s ease-in;
+	cursor: pointer
+}
+
+.children-safety:hover {
+	transform: scale(1.08)
+}
+
+.mission-sp1 {
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 5%;
+	padding-bottom: 5%
+}
+
+.sanitation {
+	padding-bottom: 16%
+}
+
+
+
+
+.transport {
+	padding-bottom: 42%
+}
+
+.medication {
+	padding-bottom: 28%
+}
+
+.emergancy {
+	padding-bottom: 44%
+}
+
+@media screen and (max-width:2560px) {
+	.infant-data {
+		top: 80%;
+		left: 39%;
+		font-size: 28px;
+		padding: 3%
+	}
+
+	.early-data {
+		top: 27%
+	}
+
+	.infant-subdescsubtitle {
+		font-family: 'barlow_semiboldregular';
+		font-size: 25px;
+		text-align: center;
+		padding-top: 2%
+	}
+
+	.infant-subdesc {
+		font-size: 26px
+	}
+
+	.infant-care-para {
+		font-size: 32px !important
+	}
+
+	.infant-care-heading {
+		font-size: 40px;
+		padding-top: 10%
+	}
+
+	.infant-list {
+		font-size: 22px
+	}
+
+	.infant-subtitle {
+		font-size: 32px
+	}
+
+	.infant-care-para {
+		font-size: 25px !important
+	}
+
+	.who-we-are-caption {
+		top: 54%;
+		left: 21%;
+		line-height: 126px
+	}
+
+	.children-safety-title {
+		padding-top: 0%;
+		font-size: 36px
+	}
+
+	.listpara {
+		font-size: 22px
+	}
+
+	.sanitation {
+		padding-bottom: 17%
+	}
+
+	.transport {
+		padding-bottom: 39%
+	}
+
+	.medication {
+		padding-bottom: 18%
+	}
+
+	.emergancy {
+		padding-bottom: 35%
+	}
+}
+
+@media screen and (max-width:1920px) {
+	.early-data {
+		top: 30%
+	}
+
+	.team-designation {
+		font-size: 20px
+	}
+
+	.who-we-are-caption {
+		top: 55%;
+		left: 21%;
+		line-height: 90px
+	}
+
+	.children-safety-title {
+		padding-top: 0%;
+		font-size: 32px
+	}
+
+	.listpara {
+		font-size: 20px
+	}
+
+	.sanitation {
+		padding-bottom: 20%
+	}
+
+	.transport {
+		padding-bottom: 42%
+	}
+
+	.medication {
+		padding-bottom: 26%
+	}
+
+	.emergancy {
+		padding-bottom: 42%
+	}
+
+	.infant-data {
+		top: 90%;
+		left: 45%;
+		font-size: 25px;
+		padding: 3%
+	}
+}
+
+@media screen and (max-width:1600px) {
+	.team-designation {
+		font-size: 18px
+	}
+
+	.early-data {
+		top: 35%
+	}
+
+	.infant-data {
+		top: 94%;
+		left: 45%;
+		font-size: 20px;
+		padding-top: 4%;
+		padding-bottom: 3%;
+		padding-left: 2%;
+		padding-right: 2%
+	}
+
+	.infant-care-heading {
+		font-size: 35px;
+		padding-top: 10%
+	}
+
+	.infant-care-para {
+		font-size: 21px !important
+	}
+
+	.infant-subdesc {
+		font-size: 19px
+	}
+
+	.infant-list {
+		color: #20192B;
+		font-size: 20px
+	}
+
+	.who-we-are-caption {
+		top: 57%;
+		left: 21%;
+		line-height: 75px
+	}
+
+	.children-safety-title {
+		padding-top: 2%;
+		font-size: 28px
+	}
+
+	.listpara {
+		font-size: 18px
+	}
+
+	/*10-05-2023*/
+
+	.sanitation {
+		padding-bottom: 16%
+	}
+
+	.transport {
+		padding-bottom: 42%
+	}
+	 /*10-05-2023*/
+	.medication {
+		padding-bottom: 28%
+	}
+
+	.emergancy {
+		padding-bottom: 46%
+	}
+}
+
+@media screen and (max-width:1440px) {
+	.infant-care-heading {
+		font-size: 32px;
+		padding-top: 15%
+	}
+
+	.infant-subdescsubtitle {
+		font-size: 16px
+	}
+
+	.infant-data {
+		top: 100%;
+		left: 44%;
+		font-size: 18px
+	}
+
+	.team-designation {
+		font-size: 15px
+	}
+
+	.early-data {
+		top: 41%
+	}
+
+	.who-we-are-caption {
+		top: 57%;
+		left: 21%;
+		line-height: 62px
+	}
+
+	.children-safety-title {
+		padding-top: 2%;
+		font-size: 24px
+	}
+
+	.listpara {
+		font-size: 16px
+	}
+	/*10-05-2023*/
+	.medication {
+		padding-bottom: 38%
+	}
+	/*10-05-2023*/
+	.emergancy {
+		padding-bottom: 57%
+	}
+    /*10-05-2023*/
+}
+
+@media screen and (max-width:1280px) and (max-height:1024px) {
+	.questions-ans h3 {
+		font-family: 'barlowregular';
+		font-size: 30px;
+		text-align: center;
+		padding-top: 3%;
+		padding-bottom: 5%
+	}
+
+	.infant-data {
+		top: 56%;
+		left: 39%;
+		font-size: 18px
+	}
+
+	.infant-data {
+		top: 75%;
+		left: 44%
+	}
+
+	.who-we-are-caption {
+		top: 38%;
+		left: 21%;
+		line-height: 62px
+	}
+
+	.children-safety-title {
+		padding-top: 2%;
+		font-size: 22px
+	}
+
+	.listpara {
+		font-size: 15px
+	}
+
+	.sanitation {
+		padding-bottom: 16%
+	}
+
+	.transport {
+		padding-bottom: 41%
+	}
+
+	.medication {
+		padding-bottom: 37%
+	}
+
+	.emergancy {
+		padding-bottom: 56%
+	}
+}
+
+@media screen and (max-width:1280px) and (max-height:610px) {
+	.questions-ans h3 {
+		font-family: 'barlowregular';
+		font-size: 30px;
+		text-align: center;
+		padding-top: 3%;
+		padding-bottom: 5%
+	}
+
+	.infant-data {
+		position: absolute;
+		width: 35%;
+		top: 117%
+	}
+
+	.blue-bg {
+		padding-bottom: 0%
+	}
+
+	.infant-care-para {
+		font-size: 18px !important
+	}
+
+	.infant-subdesc {
+		font-size: 16px
+	}
+
+	.infant-care-heading {
+		font-size: 32px;
+		padding-top: 10%
+	}
+
+	.who-we-are-caption {
+		top: 66%;
+		left: 21%;
+		line-height: 62px
+	}
+}
+
+@media screen and (max-width:1240px) {
+	.who-we-are-caption {
+		top: 48%;
+		left: 21%;
+		line-height: 62px
+	}
+
+	.listpara {
+		font-size: 14px
+	}
+
+	.sanitation {
+		padding-bottom: 10%
+	}
+
+	.transport {
+		padding-bottom: 35%
+	}
+
+	.medication {
+		padding-bottom: 31%
+	}
+
+	.emergancy {
+		padding-bottom: 49%
+	}
+}
+
+@media screen and (max-width:1024px) {
+	.infant-data {
+		position: absolute;
+		width: 45%;
+		top: 80% !important;
+		left: 44%;
+		background-color: #FFF;
+		padding-top: 4%;
+		padding-bottom: 3%;
+		padding-left: 4%;
+		padding-right: 4%;
+		box-shadow: 0 6px 20px 0 rgba(0, 0, 0, .36);
+		font-family: 'barlowregular';
+		font-size: 18px
+	}
+
+	.infant-list {
+		color: #20192B;
+		font-size: 18px
+	}
+
+	.infant-subtitle {
+		font-size: 28px
+	}
+
+	.infant-care-heading {
+		font-size: 25px;
+		padding-top: 15%
+	}
+
+	.infant-care-para {
+		font-size: 17px !important
+	}
+
+	.blue-bg {
+		padding-top: 2% !important;
+		padding-bottom: 0% !important
+	}
+
+	.infant-img {
+		padding-bottom: 2%
+	}
+
+	.who-we-are-caption {
+		top: 41%;
+		left: 21%;
+		line-height: 50px
+	}
+
+	.children-safety-title {
+		padding-top: 2%;
+		font-size: 21px
+	}
+
+	.listpara {
+		font-size: 12px
+	}
+
+	.sanitation {
+		padding-bottom: 18%
+	}
+
+	.transport {
+		padding-bottom: 46%
+	}
+
+	.medication {
+		padding-bottom: 40%
+	}
+
+	.emergancy {
+		padding-bottom: 60%
+	}
+}
+
+@media screen and (max-width:800px) {
+	.infant-data {
+		top: 34% !important;
+		font-size: 1
+	}
+
+	.infant-data {
+		top: 46% !important;
+		font-size: 1;
+		width: 49%
+	}
+
+	.infant-care-heading {
+		font-size: 25px;
+		padding-top: 20%
+	}
+
+	.early-data {
+		top: 19%;
+		width: 53%
+	}
+
+	.who-we-are-caption {
+		top: 19%;
+		left: 15%;
+		line-height: 45px;
+		font-size: 46px
+	}
+
+	.listpara {
+		font-size: 12px;
+		line-height: 14px
+	}
+
+	.sanitation {
+		padding-bottom: 36%
+	}
+
+	.transport {
+		padding-bottom: 73%
+	}
+
+	.emergancy {
+		padding-bottom: 79%
+	}
+
+	.children-safety-title {
+		padding-top: 2%;
+		font-size: 20px
+	}
+}
+
+@media screen and (max-width:768px) {
+	.team-designation {
+		font-size: 13px;
+		margin-top: -15%
+	}
+
+	.who-we-are-caption {
+		top: 24%;
+		left: 15%;
+		line-height: 45px;
+		font-size: 46px
+	}
+
+	.infant-data {
+		top: 55% !important;
+		width: 50% !important
+	}
+
+	.infant-care-heading {
+		font-size: 30px;
+		padding-top: 7%
+	}
+
+	.transport {
+		padding-bottom: 83%
+	}
+
+	.medication {
+		padding-bottom: 66%
+	}
+
+	.emergancy {
+		padding-bottom: 104%
+	}
+}
+
+@media screen and (max-width:480px) {
+	.top-padd {
+		padding-top: 0%
+	}
+
+	.infant-care-heading {
+		font-size: 30px;
+		padding-top: 40%;
+		margin-bottom: 0%
+	}
+
+	.community-service-heading {
+		font-size: 40px;
+		padding-top: 40%
+	}
+
+	.infant-list-img {
+		width: 3%;
+		margin-top: 2%
+	}
+
+	.centers .centers-name {
+		text-align: left;
+		font-size: 18px
+	}
+
+	.team-designation {
+		font-size: 13px;
+		margin-top: -25%
+	}
+
+	.infant-data {
+		top: 95% !important;
+		padding-top: 3%;
+		padding-bottom: 0%;
+		padding-left: 4%;
+		padding-right: 1%;
+		font-size: 18px;
+		width: 50%;
+		width: 76% !important;
+		left: 12%
+	}
+
+	.infant-care-para {
+		padding: 0%;
+		padding-top: 2%
+	}
+
+	.infant-img {
+		padding-bottom: 2%;
+		width: 100%
+	}
+
+	.infant-list {
+		margin-left: 7%;
+		margin-top: -5%
+	}
+
+	.early-data {
+		top: 19%;
+		width: 100%
+	}
+
+	.children-safety-title {
+		padding-top: 2%;
+		font-size: 30px
+	}
+
+	.listpara {
+		font-size: 16px;
+		line-height: 24px
+	}
+
+	.no-gutters {
+		padding-top: 10%
+	}
+
+	.sanitation,
+	.transport,
+	.medication,
+	.emergancy {
+		padding-bottom: 5%
+	}
+
+	.emergancy {
+		margin-bottom: 15%
+	}
+
+	.mission-sp1 {
+		padding-top: 0%;
+		padding-bottom: 0%
+	}
+
+	.who-we-are-caption {
+		top: 52%;
+		left: -3%;
+		line-height: 50px;
+		font-size: 48px
+	}
+
+	.mission.inside-bg02 {
+		margin-left: 0%
+	}
+
+	.school-break {
+		margin-left: 0%
+	}
+
+	.school-break-title {
+		padding-left: 0%
+	}
+
+	.mission-sp {
+		padding-bottom: 0%
+	}
+}
+
+@media screen and (max-width:414px) {
+	.infant-data {
+		top: 95% !important;
+		padding-top: 3%;
+		padding-bottom: 0%;
+		padding-left: 4%;
+		padding-right: 1%;
+		font-size: 16px
+	}
+
+	.community-service-heading {
+		font-size: 36px;
+		padding-top: 45%
+	}
+
+	.who-we-are-caption {
+		top: 52%;
+		left: -3%;
+		line-height: 42px;
+		font-size: 44px
+	}
+
+	.infant-care-para {
+		font-size: 16px !important;
+		padding-top: 0% !important;
+		padding-bottom: 0%
+	}
+
+	.infant-care-heading {
+		font-size: 24px;
+		padding-top: 15%;
+		padding-bottom: 4% !important;
+		margin-bottom: 0%;
+		line-height: 29px
+	}
+
+	.infant-img {
+		padding-bottom: 10%
+	}
+
+	.blue-bg {
+		padding-top: 5%;
+		padding-bottom: 5%
+	}
+
+	.infant-list-img {
+		width: 3%;
+		float: left
+	}
+
+	.children-safety-title {
+		padding-top: 0%;
+		font-size: 28px
+	}
+
+	.listpara {
+		font-size: 15px;
+		line-height: 20px
+	}
+}
+
+@media screen and (max-width:412px) {
+	.infant-list-img {
+		width: 3%;
+		float: left
+	}
+
+	.infant-data {
+		top: 102% !important
+	}
+
+	.who-we-are-caption {
+		top: 60%;
+		left: -3%;
+		line-height: 40px;
+		font-size: 42px
+	}
+}
+
+@media screen and (max-width:384px) {
+	.community-service-heading {
+		font-size: 32px;
+		padding-top: 50%
+	}
+
+	.infant-data {
+		top: 103% !important;
+		font-size: 13px;
+		width: 61%;
+		left: 13%;
+		width: 74% !important
+	}
+
+	.infant-subdesc {
+		font-size: 15px
+	}
+
+	.preschool-title {
+		font-size: 21px;
+		display: flex;
+		width: 100%;
+		margin-bottom: 6%
+	}
+
+	.before-after-heading {
+		font-size: 21px
+	}
+
+	.infant-care-heading {
+		font-size: 23px;
+		padding-top: 10%;
+		padding-bottom: 4% !important;
+		margin-bottom: 0%;
+		line-height: 29px;
+		margin-top: 4%
+	}
+
+	.children-safety-title {
+		padding-top: 0%;
+		font-size: 26px
+	}
+
+	.listpara {
+		font-size: 14px;
+		line-height: 20px
+	}
+}
+
+@media screen and (max-width:375px) {
+	.infant-data {
+		top: 73% !important;
+		font-size: 12px;
+		width: 61%;
+		left: 34%;
+		width: 60% !important
+	}
+
+	.infant-care-heading {
+		font-size: 30px;
+		padding-top: 0%;
+		padding-bottom: 4% !important;
+		margin-bottom: 0%;
+		line-height: 29px;
+		margin-top: 0%
+	}
+}
+
+@media screen and (max-width:360px) {
+	.infant-care-heading {
+		font-size: 23px;
+		padding-top: 32%;
+		padding-bottom: 4% !important;
+		margin-bottom: 0%;
+		line-height: 29px;
+		margin-top: 2%
+	}
+
+	.infant-data {
+		top: 109% !important;
+		font-size: 13px;
+		left: 13%;
+		width: 74% !important
+	}
+
+	.preschool-title {
+		font-size: 20px;
+		display: flex;
+		width: 100%;
+		margin-bottom: 6%
+	}
+
+	.mission-point {
+		font-size: 14px;
+		line-height: 22px;
+		margin-top: -10%;
+		margin-left: 11%;
+		padding-top: 4%
+	}
+
+	.infant-img {
+		padding-bottom: 21%
+	}
+
+	.community-service-heading {
+		font-size: 30px;
+		padding-top: 55%
+	}
+
+	.who-we-are-caption {
+		top: 57%;
+		left: 0%;
+		line-height: 34px;
+		font-size: 34px
+	}
+}
+
+@media screen and (max-width:320px) {
+	.infant-img {
+		margin-top: 0%;
+		margin-top: 2%
+	}
+
+	.infant-care-heading {
+		font-size: 23px;
+		padding-top: 0%;
+		padding-bottom: 4% !important;
+		margin-bottom: 0%;
+		line-height: 29px;
+		margin-top: 1%
+	}
+
+	.infant-subtitle {
+		font-size: 25px
+	}
+
+	.infant-care-heading {
+		font-size: 23px;
+		text-align: center;
+		padding-top: 0%;
+		margin-top: 10%
+	}
+
+	.infant-care-para {
+		padding: 5%;
+		padding-top: 0%;
+		margin-bottom: -6%
+	}
+
+	.infant-list {
+		color: #20192B;
+		font-size: 14px
+	}
+
+	.blue-bg {
+		padding-top: 2% !important;
+		padding-bottom: 11% !important
+	}
+
+	.questions-ans h3 {
+		font-size: 19px
+	}
+
+	.infant-care-para {
+		padding: 5%;
+		padding-top: 0%;
+		font-size: 13px !important
+	}
+
+	.infant-data {
+		top: 102% !important;
+		font-size: 12px;
+		width: 61%;
+		left: 13%
+	}
+
+	.who-we-are-caption {
+		top: 55%;
+		left: -3%;
+		line-height: 34px;
+		font-size: 32px
+	}
+
+	.listpara {
+		font-size: 12px;
+		line-height: 20px
+	}
+
+	.children-safety-title {
+		padding-top: 0%;
+		font-size: 24px
+	}
+}
